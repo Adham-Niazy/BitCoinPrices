@@ -3,3 +3,5 @@ node_modules
 .next
 
 .envgit commit -m "first commit"
+
+.vercel
